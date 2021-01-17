@@ -1,24 +1,36 @@
 # task-list
 
-## Project setup
-```
-yarn install
+## Resumo
+
+Hello world com vue 3
+
+Aplicação simples de "ToDo", utilizando a nova sintaxe e conceitos do vue3.
+
+## 💻 Rodando a aplicação
+
+### Requisitos
+
+- NodeJS
+- Yarn ou NPM
+
+Clone o repositório e entre na pasta do projeto.
+
+**Instale as dependências**
+
+```sh
+yarn
+#ou utilizado npm
+npm i
 ```
 
-### Compiles and hot-reloads for development
-```
+**Rodando a aplicação**
+
+```sh
 yarn serve
+# ou utilizando npm
+npm run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## :memo: License
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+MIT
